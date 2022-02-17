@@ -39,3 +39,12 @@ pip install pyjokes
 pip install requests
 
 
+
+# BUGS ?
+If any Bug is found :- 
+
+# IF ANY ISSUE FOUND CONTACT ME :-
+LinkedIn:- www.linkedin.com/in/sujay-gawas-a4a161211
+
+Instragram I'd :- its_sujay07
+
