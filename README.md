@@ -10,4 +10,32 @@ speech recognition, the ability of devices to respond to spoken commands. Speech
 pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.
 
 ### Webbrowser :-  
+The webbrowser module provides a high-level interface to allow displaying web-based documents to users.
+
+### Wikipedia :- 
+Wikipedia module fetches information directly from one of the most extensive knowledge repositories online.
+
+### PyWhatKit :- 
+It is a Python library with various helpful features. It's easy-to-use and does not require you to do any additional setup. Currently, it has about 300k+ downloads and counting. New updates are released frequently with new features and bug fixes.
+
+### pyjokes :- 
+One line jokes for programmers (jokes as a service)
+
+
+## To add these, you will have to execute the following commands in the terminal:
+
+pip install pyttsx3
+
+pip install SpeechRecognition
+
+pip install Wikipedia
+
+pip install webbrowser
+
+pip install pywhatkit
+
+pip install pyjokes
+
+pip install requests
+
 
