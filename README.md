@@ -41,7 +41,7 @@ pip install requests
 
 
 # BUGS ?
-If any Bug is found :- 
+If any Bug is found :- https://github.com/Sujaygawas07/AI-Virtual-Assistant/issues
 
 # IF ANY ISSUE FOUND CONTACT ME :-
 LinkedIn:- www.linkedin.com/in/sujay-gawas-a4a161211
